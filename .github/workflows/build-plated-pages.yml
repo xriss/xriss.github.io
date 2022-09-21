@@ -18,5 +18,6 @@ jobs:
         with:
           email: plated@github.actions
           build_dir: docs
+          branch: gh-pages
           jekyll: no
 
