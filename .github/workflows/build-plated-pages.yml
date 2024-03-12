@@ -20,4 +20,3 @@ jobs:
           build_dir: docs
           branch: gh-pages
           jekyll: no
-
